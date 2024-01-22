@@ -11,7 +11,7 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
-/*Possiamo immaginare i principali tipi di dati di JavaScript come dei contenitori vuoti che ci servono a salvare dei dati per dopo; sono i booleani (valori che possono essere solamente Veri o Falsi, servono a controllare la verità delle condizioni), le stringhe(sequenze di caratteri che vengono scritte tra le virgolette), i numeri, i null(cassetti svuotati dagli sviluppatori) e gli undefined(cassetti vuoti).*/
+/*Possiamo immaginare i principali tipi di dati di JavaScript come dei contenitori vuoti che ci servono a salvare dei dati per dopo; sono i booleani (valori che possono essere solamente Veri o Falsi, servono a controllare la verità delle condizioni), le stringhe(sequenze di caratteri che vengono scritte tra le virgolette), i numeri, i null(cassetti appositamente svuotati dagli sviluppatori, per dare valenza nulla) e gli undefined(cassetti vuoti non intenzionalmente).*/
 
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
