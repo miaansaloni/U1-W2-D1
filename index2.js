@@ -10,8 +10,7 @@ let pesoTotale = solidi + liquidi;
 let porzioneS = pesoTotale / 8;
 let laMiaPorzione = porzioneS * 3;
 console.log(
-  "Per fare i pancakes prima unire in una terrina gli ingredienti solidi: " +
-    "farina " +
+  "Per fare i pancakes prima unire in una terrina gli ingredienti solidi: farina " +
     farina +
     " gr, zucchero " +
     zucchero +
